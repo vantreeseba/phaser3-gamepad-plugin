@@ -4,7 +4,7 @@
  * http://goldfirestudios.com
  */
 
-const GamePadManager = require('./gamepad.js');
+const GamePadManager = require('gamepad-events');
 
 /**
  * @class GamepadPlugin
